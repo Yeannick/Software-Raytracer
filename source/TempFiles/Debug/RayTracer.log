@@ -1,0 +1,11 @@
+﻿  ERenderer.cpp
+D:\Final\StartProject_RayTracer\source\ERenderer.cpp(49,53): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\Final\StartProject_RayTracer\source\ERenderer.cpp(49,50): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  PerspectiveCamera.cpp
+  main.cpp
+  Generating Code...
+  RayTracer.vcxproj -> D:\Final\StartProject_RayTracer\bin\Debug\RayTracer.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied

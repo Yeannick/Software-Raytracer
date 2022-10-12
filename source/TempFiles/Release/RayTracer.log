@@ -1,0 +1,37 @@
+﻿  BRDF.cpp
+D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\BRDF.cpp(12,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\BRDF.cpp(21,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DirectionalLight.cpp
+  ERenderer.cpp
+D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\ERenderer.cpp(49,53): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\ERenderer.cpp(49,50): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  ETimer.cpp
+  HitRecord.cpp
+  LambertMaterial.cpp
+  LambertPhongMaterial.cpp
+  Light.cpp
+  main.cpp
+  Material.cpp
+  PBRMaterial.cpp
+  PerspectiveCamera.cpp
+  Plane.cpp
+  PointLight.cpp
+  Primitive.cpp
+  SceneGraph.cpp
+  Sphere.cpp
+  Triangle.cpp
+  TriangleMesh.cpp
+  Generating code
+  517 of 531 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracer.vcxproj -> D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\bin\Release\RayTracer.exe
+  D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\..\lib\sdl2-2.0.9\x64\SDL2.dll
+  1 File(s) copied
+  D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\..\lib\vld\x64\vld_x64.dll
+  1 File(s) copied
+  D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\..\lib\vld\x64\dbghelp.dll
+  1 File(s) copied
+  D:\GP1_2021_SRT_Yannick_Godeau_EN\GP1_Raytracer_Yannick_Godeau_2DAE07\SOURCE\source\..\lib\vld\x64\Microsoft.DTfW.DHL.manifest
+  1 File(s) copied
